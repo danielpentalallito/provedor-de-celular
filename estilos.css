@@ -1,0 +1,160 @@
+@charset "utf-8";
+/* CSS Document */
+
+* {
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+}
+#encabezado {
+	background-image: url(img/SOLUCIONES-MC_-Repuestos_Celulares.png);
+	height: 230px;
+}
+body {
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">/ * Enlace permanente: utilícelo para editar y compartir este degradado: https://colorzilla.com/gradient-editor/#0a0206+17,9485f7+65 * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: rgb (10,2,6); </font><font style="vertical-align: inherit;">/ * Navegadores antiguos * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: -moz-linear-gradient (izquierda, rgba (10,2,6,1) 17%, rgba (148,133,247,1) 65%); </font><font style="vertical-align: inherit;">/ * FF3.6-15 * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: -webkit-linear-gradient (izquierda, rgba (10,2,6,1) 17%, rgba (148,133,247,1) 65%); </font><font style="vertical-align: inherit;">/ * Chrome10-25, Safari5.1-6 * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">fondo: gradiente lineal (a la derecha, rgba (10,2,6,1) 17%, rgba (148,133,247,1) 65%); </font><font style="vertical-align: inherit;">/ * W3C, IE10 +, FF16 +, Chrome26 +, Opera12 +, Safari7 + * /</font></font>
+<font style="vertical-align: inherit;"><font style="vertical-align: inherit;">filtro: progid: DXImageTransform.Microsoft.gradient (startColorstr = '# 0a0206', endColorstr = '# 9485f7', GradientType = 1); </font><font style="vertical-align: inherit;">/ * IE6-9 * /</font></font>
+
+}
+#contenedor {
+	margin: auto;
+	height: auto;
+	width: 1050px;
+
+}
+
+
+
+#botonera {
+	background-color: rgba(0,0,0,1);
+	height: 50px;
+}
+#botonera ul {
+	width: 550px;
+	margin: auto;
+/*	border: solid 1px yellow;*/
+}
+#botonera ul  li {
+	float: left;
+	width: 135px;
+	/*border: solid 1px blue;*/
+	line-height: 40px;
+	text-align: center;
+	vertical-align: middle;
+	list-style-type: none;
+	
+}
+#botonera ul li a {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 14px;
+	font-weight: 600;
+	color: rgba(255,255,255,1);
+	text-decoration: none;
+}
+#botonera ul li a:hover {
+	color: rgba(204,255,0,1);
+}
+#centro {
+	background-color: rgba(0,50,94,1);
+	height: 1000px;
+}
+#pie {
+	font-family: Verdana, Geneva, sans-serif;
+	font-size: 20px;
+	line-height: 40px;
+	font-weight: 600;
+	color: rgba(255,255,255,1);
+	background-color: rgba(0,0,0,1);
+	text-align: center;
+	vertical-align: middle;
+	height: 40px;
+}
+#caja1 {
+	float: left;
+	height: 400px;
+	width: 1000px;
+	margin-top: 10px;
+	margin-left: 25px;
+	/*border: solid red 1px;*/
+}
+#caja2 {
+	background-color: rgba(0,0,0,1);
+	float: left;
+	height: 200px;
+	width: 1000px;
+	margin-top: 35px;
+	margin-left: 25px;
+}
+h1 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 25px;
+	font-weight: 600;
+	color: rgba(204,102,0,1);
+	margin-top: 10px;
+	margin-bottom: 5px;
+}
+h3 {
+	font-family: Tahoma, Geneva, sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: rgba(102,102,102,1);
+	margin-top: 5px;
+	margin-bottom: 10px;
+	text-align: center;
+	vertical-align: middle;
+}
+h2 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 25px;
+	font-weight: 600;
+	color: rgba(0,50,94,1);
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#caja2 p {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 12px;
+	line-height: 16px;
+	color: rgba(255,255,255,1);
+	text-align: justify;
+	margin-top: 10px;
+	margin-right: 10px;
+	margin-bottom: 10px;
+	margin-left: 10px;
+}
+#caja1 p {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 15px;
+	line-height: 20px;
+	color: rgba(255,255,255,1);
+	text-align: justify;
+	margin-top: 10px;
+	margin-bottom: 10px;
+}
+#caja1 img {
+	display: block;
+	margin-top: auto;
+	margin-left: 350px;
+}
+img {
+	border-top-width: 5px;
+	border-right-width: 5px;
+	border-bottom-width: 5px;
+	border-left-width: 5px;
+	border-top-style: dotted;
+	border-right-style: dashed;
+	border-bottom-style: dotted;
+	border-left-style: dashed;
+	border-top-color: rgba(255,255,0,1);
+	border-right-color: rgba(153,0,51,1);
+	border-bottom-color: rgba(255,255,0,1);
+	border-left-color: rgba(204,0,0,1);
+	float: left;
+	margin-top: 50px;
+	margin-left: 14px;
+}
